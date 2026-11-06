@@ -33,3 +33,5 @@ HINWEISE
 - Nach Änderungen ggf. die Cache-Version in sw.js erhöhen und Seite neu laden.
 - Eingabe Industriezeit: 1,50 entspricht 01:30 Normalzeit.
 - Eingabe Normalzeit: 01:30 entspricht 1,5 Industriestunden.
+
+UPDATE ICON: Alle Dateien einschließlich des Ordners icons hochladen. Auf GitHub Add file > Upload files. Nach Veröffentlichung alte Startbildschirm-Verknüpfung entfernen und erneut hinzufügen.
